@@ -6,7 +6,7 @@ For example,
 
 would be an example of such a sentence.
 
-Add the bot to your workspace by clicking [here](https://slack.com/oauth/v2/authorize?scope=chat%3Awrite%2Creactions%3Aread%2Creactions%3Awrite%2Cgroups%3Ahistory%2Cchannels%3Amanage%2Cchannels%3Aread%2Cchannels%3Ahistory%2Capp_mentions%3Aread&user_scope=&redirect_uri=https%3A%2F%2Fxhj75964b4.execute-api.us-east-1.amazonaws.com%2Fprod%2Fauth&client_id=843452174659.6407286023969&_gl=1*gq3iwl*_gcl_au*NTYwMjMxMDA5LjE3MTk1MDMyODU.*_ga*Nzk1MDg5MjAzLjE2Njg3MTYzNDU.*_ga_QTJQME5M5D*MTcyMDQ1Mzk2My4xMDIuMS4xNzIwNDU0MTczLjAuMC4w)! From then on, invite the bot to any channel you want it to listen in on, and it respond to all messages on that channel. 
+Add the bot to your workspace by clicking [here](https://slack.com/oauth/v2/authorize?scope=chat%3Awrite%2Creactions%3Aread%2Creactions%3Awrite%2Cgroups%3Ahistory%2Cchannels%3Amanage%2Cchannels%3Aread%2Cchannels%3Ahistory%2Capp_mentions%3Aread&user_scope=&redirect_uri=https%3A%2F%2Fxhj75964b4.execute-api.us-east-1.amazonaws.com%2Fprod%2Fauth&client_id=843452174659.6407286023969&_gl=1*gq3iwl*_gcl_au*NTYwMjMxMDA5LjE3MTk1MDMyODU.*_ga*Nzk1MDg5MjAzLjE2Njg3MTYzNDU.*_ga_QTJQME5M5D*MTcyMDQ1Mzk2My4xMDIuMS4xNzIwNDU0MTczLjAuMC4w)! From then on, invite the bot to any channel you want it to listen in on, and it will respond to all acronym-filled messages on that channel. 
 
 There are also some easter eggs (certain phrases that will trigger the bot to reply with a response), so be on the lookout for those!
 
