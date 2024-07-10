@@ -1,0 +1,17 @@
+{
+  "name": "acronymbotlambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.609.0",
+    "@slack/web-api": "^7.3.1",
+    "crypto": "^1.0.1"
+  }
+}
